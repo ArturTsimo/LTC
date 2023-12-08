@@ -1,5 +1,3 @@
-retry - The command line retry tool
-------------------------------------------
 
 Retry any shell command with exponential backoff or constant delay.
 
